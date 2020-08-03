@@ -1,5 +1,5 @@
 /* QUESTION:
-https://w...content-available-to-author-only...j.com/problems/PRIME1/
+https://www.spoj.com/problems/PRIME1/
 Peter wants to generate some prime numbers for his cryptosystem. Help him! Your task is to generate all prime numbers between two given numbers!
 
 Input
